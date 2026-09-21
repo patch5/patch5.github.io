@@ -1,0 +1,26 @@
+{
+  "github": "patch5",
+  "camera": "",
+  "bio": "I fuck things up. Sometimes on purpose.",
+  "showDates": true,
+  "mastodon": "",
+  "author": "patch5",
+  "logo": {
+    "type": "text",
+    "image": "",
+    "text": ""
+  },
+  "enableSocial": true,
+  "navStyle": "float",
+  "instagram": "",
+  "location": "The Lost City of Atlanta",
+  "title": "Any Port In a Storm",
+  "avatar": "/images/avatar.jpg",
+  "description": "A photography site on the Pirate Social network",
+  "cloudinary": {
+    "enabled": false,
+    "cloudName": "",
+    "apiKey": ""
+  },
+  "giphyKey": ""
+}
